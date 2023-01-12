@@ -1,42 +1,43 @@
 # Basic Arithmetic Operations 
-![ |400](https://remnote-user-data.s3.amazonaws.com/qHLARaM56Hdf4lfkU26hcHHJ8R4WBJmJDZ0BA4ME2hJGWQRnOC0wiDsXMDjjTAkGZp14PxBCAPkKj4TCQbue_0kFYraG3BeWm_VxmpBOAL3A8BUWLiJl4945FNpgD7WF.png)
+![200](https://remnote-user-data.s3.amazonaws.com/qHLARaM56Hdf4lfkU26hcHHJ8R4WBJmJDZ0BA4ME2hJGWQRnOC0wiDsXMDjjTAkGZp14PxBCAPkKj4TCQbue_0kFYraG3BeWm_VxmpBOAL3A8BUWLiJl4945FNpgD7WF.png)
 
 
 # Common Functions with Strings
-###### Adjusting cases of charaters
+### Adjusting cases of charaters
 ```python
 
 .lower(), .upper(), .capitalize()
 ```
 
-###### String Replacement
+### String Replacement
 ``` Python
 .replace()
 ```
 
-###### Splitting Strings 
+### Splitting Strings 
 ```
 .split()
 ```
 
-###### Stripping spaces
+### Stripping spaces
 ```
 .strip()
 ```
 
-##### Joining of multiple datatypes 
-```
-.format()
-```
+
 
 
 
 # Common Functions 
-###### Returning pair data 
-#ZipFunction 
-	Function :
-		Returns pair data
+
+### Joining of multiple datatypes 
+```
+.format()
+```
+
+### Returning pair data aka Zip function
 ```python
+#Zip functions will return pair data
 x = [a,b,c]
 y = [d,e,f]
 
